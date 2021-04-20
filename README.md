@@ -3,7 +3,7 @@
 
 划分连通块 + 解线性方程组 + 枚举变元 + 随机点
 
-[扫雷AI](https://gitee.com/xuaii/boom/blob/master/ai/AI.mdd)
+[扫雷AI](https://gitee.com/xuaii/boom/blob/master/ai/AI.md)
 
 运行结果：
 

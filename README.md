@@ -7,7 +7,7 @@
 
 运行结果：
 
-![None](https://gitee.com/xuaii/boom/blob/master/result/impicture_20210421_030325.png "None")
+![None](https://gitee.com/xuaii/boom/raw/9a4ec33191778a5ead3bd408b672c404e4a0ba38/result/impicture_20210421_030325.png "None")
 
 ### 2. 运行方式
 

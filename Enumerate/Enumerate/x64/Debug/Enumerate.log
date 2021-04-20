@@ -1,0 +1,30 @@
+﻿  Enumerate.cpp
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(23,1): warning C4005: “UNIT_BOOM”: 宏重定义
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(20): message : 参见“UNIT_BOOM”的前一个定义
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,38): error C2672: “std::min”: 未找到匹配的重载函数
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): error C2780: “_Ty std::min(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(76): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): error C2784: “_Ty std::min(std::initializer_list<_Elem>,_Pr)”: 未能从“int”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(73): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): error C2782: “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(65): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): message : 可能是“unsigned __int64”
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): message : 或    “int”
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): error C2784: “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“unsigned __int64”为“const _Ty &”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(65): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(90,64): error C2780: “const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(56): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,42): error C2672: “std::min”: 未找到匹配的重载函数
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): error C2780: “_Ty std::min(std::initializer_list<_Elem>)”: 应输入 1 个参数，却提供了 2 个
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(76): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): error C2784: “_Ty std::min(std::initializer_list<_Elem>,_Pr)”: 未能从“int”为“std::initializer_list<_Elem>”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(73): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): error C2782: “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 模板 参数“_Ty”不明确
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(65): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): message : 可能是“unsigned __int64”
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): message : 或    “int”
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): error C2784: “const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)”: 未能从“unsigned __int64”为“const _Ty &”推导 模板 参数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(65): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(92,68): error C2780: “const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)”: 应输入 3 个参数，却提供了 2 个
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\utility(56): message : 参见“std::min”的声明
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(107,29): warning C4018: “<”: 有符号/无符号不匹配

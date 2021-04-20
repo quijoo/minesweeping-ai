@@ -1,0 +1,7 @@
+﻿  Enumerate.cpp
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(113,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(140,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(148,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(196,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Enumerate\Enumerate.cpp(236,20): warning C4018: “<”: 有符号/无符号不匹配
+  Enumerate.vcxproj -> C:\Users\Xuaii\Desktop\Workplace\扫雷\Enumerate\Debug\Enumerate.exe

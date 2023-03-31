@@ -42,5 +42,5 @@ python aitest.py manual
   * gauss.py			    解非齐次线性方程组 + 枚举自由变元 的函数集
   * AI.md                     实现思路说明
 * 运行结果                截图和gif
-* Enumerate            之前用 C++实现的枚举部分， 问了一下不让用就弃用了
+* Enumerate            之前用 C++实现的枚举部分
 
